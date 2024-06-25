@@ -12,24 +12,9 @@ Hello! I'm Gerardo, a passionate developer and physics master student at the Ruh
   - Detailed particle behavior and interactions.
   - Parallelized for improved performance.
   - CSV output for visualization with Jupyter Notebooks.
-- **Repository:** [Plasma Etching Simulation](https://github.com/yourusername/plasma-etching-simulation)
+- **Repository:** [Plasma Etching Simulation](https://github.com/GegAll/plasma-etching-simulation)
 
 ### Machine Learning Projects
-
-#### House Price Regression
-
-- **Description:** A machine learning project that predicts house prices using various regression techniques.
-- **Techniques Used:**
-  - Linear Regression
-  - Ridge and Lasso Regression
-  - Decision Trees and Random Forests
-  - Gradient Boosting Machines
-- **Features:**
-  - Data preprocessing and feature engineering.
-  - Model training and evaluation.
-  - Hyperparameter tuning.
-  - Visualization of predictions and model performance.
-- **Repository:** [House Price Regression](https://github.com/yourusername/house-price-regression)
 
 #### Classification Problems
 
@@ -44,7 +29,7 @@ Hello! I'm Gerardo, a passionate developer and physics master student at the Ruh
   - Model training and cross-validation.
   - Performance metrics and evaluation.
   - Visualization of classification boundaries and confusion matrices.
-- **Repository:** [Classification Problems](https://github.com/yourusername/classification-problems)
+- **Repository:** [Classification Problems](https://github.com/GegAll/Titanic-Survival-Classifier)
 
 ## Other Projects
 
@@ -55,24 +40,15 @@ Hello! I'm Gerardo, a passionate developer and physics master student at the Ruh
   - Convolutional Neural Networks (CNNs) for image classification.
   - Recurrent Neural Networks (RNNs) for sequence prediction.
   - Transfer learning with pre-trained models.
-- **Repository:** [AI and Deep Learning](https://github.com/yourusername/ai-deep-learning)
-
-### Data Analysis and Visualization
-
-- **Description:** Projects centered around data analysis and visualization using Python libraries such as Pandas, Matplotlib, and Seaborn.
-- **Features:**
-  - Data cleaning and manipulation.
-  - Statistical analysis.
-  - Interactive visualizations with Plotly.
-- **Repository:** [Data Analysis and Visualization](https://github.com/yourusername/data-analysis-visualization)
+- **Repository:** [AI and Deep Learning](https://github.com/GegAll/academic-success-classification)
 
 ## How to Reach Me
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project. You can connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/gerardo-gutierrez-alvarez-04103b2b1/)
+- [Medium](https://medium.com/@gelingutz)
+- [Email](gelingutz@gmail.com)
 
 ## Acknowledgments
 
